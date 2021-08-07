@@ -1,1 +1,3 @@
 Hi sample file4 1st line
+
+Hi sample file4 2nd line
