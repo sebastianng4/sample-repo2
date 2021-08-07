@@ -1,2 +1,3 @@
 Hi this is 1st line in sample-file1.txt
-Hi this is 2st line in sample-file1.txt
+Hi this is 2nd line in sample-file1.txt
+Hi this is 3rd line in sample-file1.txt
